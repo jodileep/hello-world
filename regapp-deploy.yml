@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   name: valaxy-regapp
   labels: 
-     app: regapp
+     app: regapp1
 
 spec:
   replicas: 2 
